@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\bin\Debug\AdmiralBookstoreDatabase.mdf
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\bin\Debug\AdmiralBookstoreDatabase_log.ldf
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\bin\Debug\LabTest2.exe.config
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\bin\Debug\LabTest2.exe
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\bin\Debug\LabTest2.pdb
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.FormAuthor.resources
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.FormBook.resources
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.FormStock.resources
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.exe
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.pdb
+C:\Users\LENOVO\Desktop\SEM4\EDP\LabTest2\obj\Debug\LabTest2.exe.config
